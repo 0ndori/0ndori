@@ -13,10 +13,7 @@
 ![Visual Basic Badge](https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualbasic&logoColor=fff&style=plastic)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)
-![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=plastic)
-![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=plastic)
 ![Windows XP Badge](https://img.shields.io/badge/Windows-039?logo=windowsxp&logoColor=fff&style=plastic)
-![PayPal Badge](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff&style=plastic)
 
 <!---
 0ndori/0ndori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
